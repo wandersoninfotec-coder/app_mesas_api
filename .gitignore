@@ -1,0 +1,26 @@
+# Logs
+logs/
+*.log
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Composer (se usar no futuro)
+/vendor/
+
+# Backup / temporários
+*.bak
+*.tmp
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*

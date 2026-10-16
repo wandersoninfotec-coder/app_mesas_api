@@ -1,0 +1,14 @@
+#JSON APP RESTAURANTE#
+
+- listarConsulta
+{"texto":"rec", "empresa":"1"}
+
+- add (Clientes)
+{"bairro":"Bairro","cidade":"5107040","contato":"contato","cpf":"22222222233","email":"","empresa":"1","endereco":"Endereço","fantasia":"Fantasia","razao":"Razao","rg":"isento","telefone":"34222222","tipo":"1","codigo":0}
+
+- edit (Clientes)
+{"bairro":"ZONA RURAL","celular":"","cep":"78.700-000","cidade":"5107602","uf":"MT","contato":"","cpf":"24746687000177","email":"","empresa":"1","endereco":"RODOVIA VR 163","fantasia":"agra","razao":"AGRA","rg":"130660698","telefone":"","tipo":"2","codigo":2}
+
+
+//$j= file_get_contents("C:/xampp/htdocs/WDSRestaurante/json/editCliente.json");
+//  $j=json_decode($j);
